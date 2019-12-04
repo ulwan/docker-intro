@@ -6,10 +6,13 @@ https://lnkd.in/gh8bKe4
 # Core Concepts: 
 Introduction to Bag of Words (CountVectorizer, TFIDF, HashVectorizer)
 https://lnkd.in/gcymgfJ
+
 Text Preprocessing (Stopword Removal, Tokenization, Stemming/Lemmazation)
 https://lnkd.in/gxDszeb
+
 Word Vectors
 https://lnkd.in/gPrmD99
+
 Regex Tutorial
 https://lnkd.in/gDG3HTA
 
