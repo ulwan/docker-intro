@@ -53,3 +53,5 @@ Machine Learning Terminology https://lnkd.in/fCihY9W
 Understand Machine Learning Implementation https://lnkd.in/f5aUbBM
 Machine Learning on Retail https://lnkd.in/fihPTJf
 Marketing https://lnkd.in/fUDGAQW
+
+Slank word: https://raw.githubusercontent.com/nasalsabila/kamus-alay/master/colloquial-indonesian-lexicon.csv
