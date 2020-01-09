@@ -55,3 +55,4 @@ Machine Learning on Retail https://lnkd.in/fihPTJf
 Marketing https://lnkd.in/fUDGAQW
 
 Slank word: https://raw.githubusercontent.com/nasalsabila/kamus-alay/master/colloquial-indonesian-lexicon.csv
+stop list: https://github.com/aliakbars/bilp/blob/master/stoplist, https://github.com/pebbie/pebahasa/blob/master/indonesian
